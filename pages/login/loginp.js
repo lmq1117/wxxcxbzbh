@@ -61,7 +61,10 @@ Page({
    * 登录
    */
   login: function () {
-    console.log('login')
+    // console.log('login')
+    wx.navigateTo({
+      url: '../live/livep'
+    })
   },
 
   /**
