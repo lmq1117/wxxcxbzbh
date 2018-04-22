@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/login/loginp",
+    "pages/live/livep"
+  ],
+  "window": {
+    "navigationBarTitleText": "微信小程序必知必会-源代码项目Demo"
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": false
+}

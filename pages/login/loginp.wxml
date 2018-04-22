@@ -1,0 +1,8 @@
+<!--pages/login/loginp.wxml-->
+<!-- <text>pages/login/loginp.wxml</text> -->
+<view class="page">
+用户名：
+<input />
+密码
+<input />
+</view>

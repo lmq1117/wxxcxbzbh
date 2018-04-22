@@ -1,0 +1,5 @@
+/* pages/login/loginp.wxss */
+input {
+  border:1px solid;
+  width:300rpx;
+}
