@@ -58,6 +58,13 @@ Page({
   },
 
   /**
+   * 登录
+   */
+  login: function () {
+    console.log('login')
+  },
+
+  /**
    * 用户点击右上角分享
    */
   onShareAppMessage: function () {
