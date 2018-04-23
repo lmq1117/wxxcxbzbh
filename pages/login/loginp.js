@@ -63,7 +63,8 @@ Page({
   login: function () {
     // console.log('login')
     wx.navigateTo({
-      url: '../live/livep'
+      // url: '../live/livep'//相对路径写法
+      url: '/pages/live/livep'//绝对路径写法
     })
   },
 

@@ -1,1 +1,4 @@
 /* pages/live/livep.wxss */
+video {
+  width: 100%;
+}
